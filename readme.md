@@ -1,6 +1,13 @@
 # Darktable website banners #
 
 ## Introduction ##
-This repository contains resources for crating Darktable web banners in common image dimensions used in advertizing campaigns.
+This repository contains marketing material for the open source software Darktable. Currently we have web banners in common image dimensions used in advertizing campaigns.
 
 ## Guide ##
+### Folder structure ###
+- Assets: Resources used during the image generation process but not are essentially
+- Export: Exported images
+- Source: Source files to edit
+
+### File names ###
+### Inkscape setup ###
