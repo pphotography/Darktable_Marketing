@@ -4,3 +4,4 @@ This style is derived from the 'SimpleWhite' style. The colors are changed to th
 - Font color: #8f8f8f
 
 ## Overview ##
+![icon](SimpleApp_overview.jpg)
