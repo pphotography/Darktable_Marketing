@@ -13,4 +13,7 @@ This repository contains marketing material for the open source software Darktab
 Naming convention:
 
     (Theme name)_(x-dimension 3-digits)_(y-dimension 3-digits)_(banner name)_(alternative number)_(Alternative name)
+Example: SimpleApp_088_031_Button_v01_Slogan.svg
+Notes:
+- Alternative number and alternative name are only needed if two or more alternatives for a specific resolution 
 ### Inkscape setup ###
