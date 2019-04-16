@@ -12,5 +12,5 @@ This repository contains marketing material for the open source software Darktab
 ### File names ###
 Naming convention:
 
-{Theme name}_{x-dimension 3-digits}_{y-dimension 3-digits}_{banner name}_{alternative number}_{Alternative name}
+    (Theme name)_(x-dimension 3-digits)_(y-dimension 3-digits)_(banner name)_(alternative number)_(Alternative name)
 ### Inkscape setup ###
