@@ -28,8 +28,7 @@ Notes:
 
 
 ### Hints ###
-- Exported PNG's from Inkscape look a bit blurry,
-- With a decent text editor that is capable of search and replace over multiple files you can change 
+- Exported PNG's from Inkscape look a bit blurry, adding a bit sharpness with an image editor could improve the image
 
 ### Inkscape setup ###
 Since Inkscape is vector-based and I need pixel sizes I setup Inkscape as follows:
